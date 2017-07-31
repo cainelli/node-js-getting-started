@@ -7,7 +7,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone git@github.com:kolihub/node-js-getting-started.git # or clone your own fork
+$ git clone git@github.com:koli/node-js-getting-started.git # or clone your own fork
 $ cd node-js-getting-started
 $ npm install
 $ npm start
